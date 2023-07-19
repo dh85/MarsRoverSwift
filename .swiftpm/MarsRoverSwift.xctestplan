@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "C18EC43C-23A1-49B5-B33A-9171A40BB847",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "MarsRoverSwiftTests",
+        "name" : "MarsRoverSwiftTests"
+      }
+    }
+  ],
+  "version" : 1
+}
